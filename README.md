@@ -1,5 +1,5 @@
 # todoApp
-A simple todo list app build with node.js and MongoDB
+## A simple todo list app build with node.js and MongoDB
 ===============================
 
 ## Getting started
